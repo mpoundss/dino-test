@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://marpounds.github.io',
+  url: 'https://mpoundss.github.io',
   baseUrl: '/',
-  organizationName: 'marpounds', // Usually your GitHub org/user name.
+  organizationName: 'mpoundss', // Usually your GitHub org/user name.
   projectName: 'dino-test', // Usually your repo name.
   trailingSlash: true,
   onBrokenLinks: 'throw',
